@@ -1,0 +1,2 @@
+createTempFile	tempfiles.html#createTempFile,string,string,string	tempfiles: createTempFile(prefix, suffix: string; dir = &quot;&quot;): tuple[fd: File, path: string]	
+createTempDir	tempfiles.html#createTempDir,string,string,string	tempfiles: createTempDir(prefix, suffix: string; dir = &quot;&quot;): string	
